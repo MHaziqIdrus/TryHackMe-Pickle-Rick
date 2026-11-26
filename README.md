@@ -1,4 +1,4 @@
-# Pickle Rick — TryHackMe Walkthrough
+# TryHackMe — Pickle Rick Walkthrough
 
 A complete penetration testing report and walkthrough for the **Pickle Rick** vulnerable machine on TryHackMe.
 
